@@ -1,0 +1,4477 @@
+{
+  "all_comparisons": [
+    {
+      "file1": "test_0001.py",
+      "file2": "test_0005.py",
+      "similarity": 1.0,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0001.py",
+      "file2": "test_0007.py",
+      "similarity": 1.0,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0001.py",
+      "file2": "test_0010.py",
+      "similarity": 1.0,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0005.py",
+      "file2": "test_0007.py",
+      "similarity": 1.0,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0005.py",
+      "file2": "test_0010.py",
+      "similarity": 1.0,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0007.py",
+      "file2": "test_0010.py",
+      "similarity": 1.0,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0012.py",
+      "file2": "test_0013.py",
+      "similarity": 1.0,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0012.py",
+      "file2": "test_0015.py",
+      "similarity": 1.0,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0012.py",
+      "file2": "test_0017.py",
+      "similarity": 1.0,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0012.py",
+      "file2": "test_0020.py",
+      "similarity": 1.0,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0013.py",
+      "file2": "test_0015.py",
+      "similarity": 1.0,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0013.py",
+      "file2": "test_0017.py",
+      "similarity": 1.0,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0013.py",
+      "file2": "test_0020.py",
+      "similarity": 1.0,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0015.py",
+      "file2": "test_0017.py",
+      "similarity": 1.0,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0015.py",
+      "file2": "test_0020.py",
+      "similarity": 1.0,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0017.py",
+      "file2": "test_0020.py",
+      "similarity": 1.0,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0021.py",
+      "file2": "test_0022.py",
+      "similarity": 1.0,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0021.py",
+      "file2": "test_0026.py",
+      "similarity": 1.0,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0022.py",
+      "file2": "test_0026.py",
+      "similarity": 1.0,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0031.py",
+      "file2": "test_0033.py",
+      "similarity": 1.0,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0031.py",
+      "file2": "test_0036.py",
+      "similarity": 1.0,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0031.py",
+      "file2": "test_0038.py",
+      "similarity": 1.0,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0031.py",
+      "file2": "test_0039.py",
+      "similarity": 1.0,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0031.py",
+      "file2": "test_0040.py",
+      "similarity": 1.0,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0032.py",
+      "file2": "test_0034.py",
+      "similarity": 1.0,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0033.py",
+      "file2": "test_0036.py",
+      "similarity": 1.0,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0033.py",
+      "file2": "test_0038.py",
+      "similarity": 1.0,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0033.py",
+      "file2": "test_0039.py",
+      "similarity": 1.0,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0033.py",
+      "file2": "test_0040.py",
+      "similarity": 1.0,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0036.py",
+      "file2": "test_0038.py",
+      "similarity": 1.0,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0036.py",
+      "file2": "test_0039.py",
+      "similarity": 1.0,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0036.py",
+      "file2": "test_0040.py",
+      "similarity": 1.0,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0038.py",
+      "file2": "test_0039.py",
+      "similarity": 1.0,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0038.py",
+      "file2": "test_0040.py",
+      "similarity": 1.0,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0039.py",
+      "file2": "test_0040.py",
+      "similarity": 1.0,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0044.py",
+      "file2": "test_0045.py",
+      "similarity": 1.0,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0046.py",
+      "file2": "test_0047.py",
+      "similarity": 1.0,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0046.py",
+      "file2": "test_0049.py",
+      "similarity": 1.0,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0047.py",
+      "file2": "test_0049.py",
+      "similarity": 1.0,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0021.py",
+      "file2": "test_0029.py",
+      "similarity": 0.9598,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0022.py",
+      "file2": "test_0029.py",
+      "similarity": 0.9598,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0026.py",
+      "file2": "test_0029.py",
+      "similarity": 0.9598,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0021.py",
+      "file2": "test_0023.py",
+      "similarity": 0.9572,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0022.py",
+      "file2": "test_0023.py",
+      "similarity": 0.9572,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0023.py",
+      "file2": "test_0026.py",
+      "similarity": 0.9572,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0031.py",
+      "file2": "test_0035.py",
+      "similarity": 0.9475,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0033.py",
+      "file2": "test_0035.py",
+      "similarity": 0.9475,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0035.py",
+      "file2": "test_0036.py",
+      "similarity": 0.9475,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0035.py",
+      "file2": "test_0038.py",
+      "similarity": 0.9475,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0035.py",
+      "file2": "test_0039.py",
+      "similarity": 0.9475,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0035.py",
+      "file2": "test_0040.py",
+      "similarity": 0.9475,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0021.py",
+      "file2": "test_0027.py",
+      "similarity": 0.9471,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0022.py",
+      "file2": "test_0027.py",
+      "similarity": 0.9471,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0026.py",
+      "file2": "test_0027.py",
+      "similarity": 0.9471,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0012.py",
+      "file2": "test_0014.py",
+      "similarity": 0.9412,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0013.py",
+      "file2": "test_0014.py",
+      "similarity": 0.9412,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0014.py",
+      "file2": "test_0015.py",
+      "similarity": 0.9412,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0014.py",
+      "file2": "test_0017.py",
+      "similarity": 0.9412,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0014.py",
+      "file2": "test_0020.py",
+      "similarity": 0.9412,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0027.py",
+      "file2": "test_0029.py",
+      "similarity": 0.9318,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0011.py",
+      "file2": "test_0012.py",
+      "similarity": 0.9232,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0011.py",
+      "file2": "test_0013.py",
+      "similarity": 0.9232,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0011.py",
+      "file2": "test_0015.py",
+      "similarity": 0.9232,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0011.py",
+      "file2": "test_0017.py",
+      "similarity": 0.9232,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0011.py",
+      "file2": "test_0020.py",
+      "similarity": 0.9232,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0023.py",
+      "file2": "test_0029.py",
+      "similarity": 0.9192,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0021.py",
+      "file2": "test_0030.py",
+      "similarity": 0.9156,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0022.py",
+      "file2": "test_0030.py",
+      "similarity": 0.9156,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0026.py",
+      "file2": "test_0030.py",
+      "similarity": 0.9156,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0023.py",
+      "file2": "test_0027.py",
+      "similarity": 0.9072,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0029.py",
+      "file2": "test_0030.py",
+      "similarity": 0.9021,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0027.py",
+      "file2": "test_0030.py",
+      "similarity": 0.8978,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0044.py",
+      "file2": "test_0046.py",
+      "similarity": 0.8898,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0044.py",
+      "file2": "test_0047.py",
+      "similarity": 0.8898,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0044.py",
+      "file2": "test_0049.py",
+      "similarity": 0.8898,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0045.py",
+      "file2": "test_0046.py",
+      "similarity": 0.8898,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0045.py",
+      "file2": "test_0047.py",
+      "similarity": 0.8898,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0045.py",
+      "file2": "test_0049.py",
+      "similarity": 0.8898,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0012.py",
+      "file2": "test_0018.py",
+      "similarity": 0.8892,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0013.py",
+      "file2": "test_0018.py",
+      "similarity": 0.8892,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0015.py",
+      "file2": "test_0018.py",
+      "similarity": 0.8892,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0017.py",
+      "file2": "test_0018.py",
+      "similarity": 0.8892,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0018.py",
+      "file2": "test_0020.py",
+      "similarity": 0.8892,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0011.py",
+      "file2": "test_0014.py",
+      "similarity": 0.8867,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0042.py",
+      "file2": "test_0046.py",
+      "similarity": 0.8847,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0042.py",
+      "file2": "test_0047.py",
+      "similarity": 0.8847,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0042.py",
+      "file2": "test_0049.py",
+      "similarity": 0.8847,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0014.py",
+      "file2": "test_0018.py",
+      "similarity": 0.8798,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0023.py",
+      "file2": "test_0030.py",
+      "similarity": 0.8778,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0003.py",
+      "file2": "test_0009.py",
+      "similarity": 0.8653,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0011.py",
+      "file2": "test_0018.py",
+      "similarity": 0.8499,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0001.py",
+      "file2": "test_0003.py",
+      "similarity": 0.8398,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0003.py",
+      "file2": "test_0005.py",
+      "similarity": 0.8398,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0003.py",
+      "file2": "test_0007.py",
+      "similarity": 0.8398,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0003.py",
+      "file2": "test_0010.py",
+      "similarity": 0.8398,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0001.py",
+      "file2": "test_0009.py",
+      "similarity": 0.8312,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0005.py",
+      "file2": "test_0009.py",
+      "similarity": 0.8312,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0007.py",
+      "file2": "test_0009.py",
+      "similarity": 0.8312,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0009.py",
+      "file2": "test_0010.py",
+      "similarity": 0.8312,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0046.py",
+      "file2": "test_0050.py",
+      "similarity": 0.8043,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0047.py",
+      "file2": "test_0050.py",
+      "similarity": 0.8043,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0049.py",
+      "file2": "test_0050.py",
+      "similarity": 0.8043,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0001.py",
+      "file2": "test_0008.py",
+      "similarity": 0.798,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0005.py",
+      "file2": "test_0008.py",
+      "similarity": 0.798,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0007.py",
+      "file2": "test_0008.py",
+      "similarity": 0.798,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0008.py",
+      "file2": "test_0010.py",
+      "similarity": 0.798,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0042.py",
+      "file2": "test_0044.py",
+      "similarity": 0.7828,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0042.py",
+      "file2": "test_0045.py",
+      "similarity": 0.7828,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0042.py",
+      "file2": "test_0050.py",
+      "similarity": 0.7665,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0031.py",
+      "file2": "test_0032.py",
+      "similarity": 0.7427,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0031.py",
+      "file2": "test_0034.py",
+      "similarity": 0.7427,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0032.py",
+      "file2": "test_0033.py",
+      "similarity": 0.7427,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0032.py",
+      "file2": "test_0036.py",
+      "similarity": 0.7427,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0032.py",
+      "file2": "test_0038.py",
+      "similarity": 0.7427,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0032.py",
+      "file2": "test_0039.py",
+      "similarity": 0.7427,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0032.py",
+      "file2": "test_0040.py",
+      "similarity": 0.7427,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0033.py",
+      "file2": "test_0034.py",
+      "similarity": 0.7427,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0034.py",
+      "file2": "test_0036.py",
+      "similarity": 0.7427,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0034.py",
+      "file2": "test_0038.py",
+      "similarity": 0.7427,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0034.py",
+      "file2": "test_0039.py",
+      "similarity": 0.7427,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0034.py",
+      "file2": "test_0040.py",
+      "similarity": 0.7427,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0032.py",
+      "file2": "test_0035.py",
+      "similarity": 0.7151,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0034.py",
+      "file2": "test_0035.py",
+      "similarity": 0.7151,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0044.py",
+      "file2": "test_0050.py",
+      "similarity": 0.7061,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0045.py",
+      "file2": "test_0050.py",
+      "similarity": 0.7061,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0003.py",
+      "file2": "test_0008.py",
+      "similarity": 0.6716,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0008.py",
+      "file2": "test_0009.py",
+      "similarity": 0.6475,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0003.py",
+      "file2": "test_0012.py",
+      "similarity": 0.3609,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0003.py",
+      "file2": "test_0013.py",
+      "similarity": 0.3609,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0003.py",
+      "file2": "test_0015.py",
+      "similarity": 0.3609,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0003.py",
+      "file2": "test_0017.py",
+      "similarity": 0.3609,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0003.py",
+      "file2": "test_0020.py",
+      "similarity": 0.3609,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0003.py",
+      "file2": "test_0014.py",
+      "similarity": 0.3538,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0009.py",
+      "file2": "test_0012.py",
+      "similarity": 0.3514,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0009.py",
+      "file2": "test_0013.py",
+      "similarity": 0.3514,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0009.py",
+      "file2": "test_0015.py",
+      "similarity": 0.3514,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0009.py",
+      "file2": "test_0017.py",
+      "similarity": 0.3514,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0009.py",
+      "file2": "test_0020.py",
+      "similarity": 0.3514,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0003.py",
+      "file2": "test_0011.py",
+      "similarity": 0.3481,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0009.py",
+      "file2": "test_0014.py",
+      "similarity": 0.3444,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0012.py",
+      "file2": "test_0023.py",
+      "similarity": 0.3431,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0013.py",
+      "file2": "test_0023.py",
+      "similarity": 0.3431,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0015.py",
+      "file2": "test_0023.py",
+      "similarity": 0.3431,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0017.py",
+      "file2": "test_0023.py",
+      "similarity": 0.3431,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0020.py",
+      "file2": "test_0023.py",
+      "similarity": 0.3431,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0001.py",
+      "file2": "test_0012.py",
+      "similarity": 0.3416,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0001.py",
+      "file2": "test_0013.py",
+      "similarity": 0.3416,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0001.py",
+      "file2": "test_0015.py",
+      "similarity": 0.3416,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0001.py",
+      "file2": "test_0017.py",
+      "similarity": 0.3416,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0001.py",
+      "file2": "test_0020.py",
+      "similarity": 0.3416,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0005.py",
+      "file2": "test_0012.py",
+      "similarity": 0.3416,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0005.py",
+      "file2": "test_0013.py",
+      "similarity": 0.3416,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0005.py",
+      "file2": "test_0015.py",
+      "similarity": 0.3416,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0005.py",
+      "file2": "test_0017.py",
+      "similarity": 0.3416,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0005.py",
+      "file2": "test_0020.py",
+      "similarity": 0.3416,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0007.py",
+      "file2": "test_0012.py",
+      "similarity": 0.3416,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0007.py",
+      "file2": "test_0013.py",
+      "similarity": 0.3416,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0007.py",
+      "file2": "test_0015.py",
+      "similarity": 0.3416,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0007.py",
+      "file2": "test_0017.py",
+      "similarity": 0.3416,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0007.py",
+      "file2": "test_0020.py",
+      "similarity": 0.3416,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0010.py",
+      "file2": "test_0012.py",
+      "similarity": 0.3416,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0010.py",
+      "file2": "test_0013.py",
+      "similarity": 0.3416,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0010.py",
+      "file2": "test_0015.py",
+      "similarity": 0.3416,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0010.py",
+      "file2": "test_0017.py",
+      "similarity": 0.3416,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0010.py",
+      "file2": "test_0020.py",
+      "similarity": 0.3416,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0014.py",
+      "file2": "test_0023.py",
+      "similarity": 0.3411,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0011.py",
+      "file2": "test_0023.py",
+      "similarity": 0.3407,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0018.py",
+      "file2": "test_0023.py",
+      "similarity": 0.34,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0009.py",
+      "file2": "test_0011.py",
+      "similarity": 0.3389,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0003.py",
+      "file2": "test_0018.py",
+      "similarity": 0.3373,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0001.py",
+      "file2": "test_0014.py",
+      "similarity": 0.3347,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0005.py",
+      "file2": "test_0014.py",
+      "similarity": 0.3347,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0007.py",
+      "file2": "test_0014.py",
+      "similarity": 0.3347,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0010.py",
+      "file2": "test_0014.py",
+      "similarity": 0.3347,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0012.py",
+      "file2": "test_0029.py",
+      "similarity": 0.334,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0013.py",
+      "file2": "test_0029.py",
+      "similarity": 0.334,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0015.py",
+      "file2": "test_0029.py",
+      "similarity": 0.334,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0017.py",
+      "file2": "test_0029.py",
+      "similarity": 0.334,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0020.py",
+      "file2": "test_0029.py",
+      "similarity": 0.334,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0014.py",
+      "file2": "test_0029.py",
+      "similarity": 0.3319,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0011.py",
+      "file2": "test_0029.py",
+      "similarity": 0.3315,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0018.py",
+      "file2": "test_0029.py",
+      "similarity": 0.3308,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0012.py",
+      "file2": "test_0021.py",
+      "similarity": 0.3297,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0012.py",
+      "file2": "test_0022.py",
+      "similarity": 0.3297,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0012.py",
+      "file2": "test_0026.py",
+      "similarity": 0.3297,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0013.py",
+      "file2": "test_0021.py",
+      "similarity": 0.3297,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0013.py",
+      "file2": "test_0022.py",
+      "similarity": 0.3297,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0013.py",
+      "file2": "test_0026.py",
+      "similarity": 0.3297,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0015.py",
+      "file2": "test_0021.py",
+      "similarity": 0.3297,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0015.py",
+      "file2": "test_0022.py",
+      "similarity": 0.3297,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0015.py",
+      "file2": "test_0026.py",
+      "similarity": 0.3297,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0017.py",
+      "file2": "test_0021.py",
+      "similarity": 0.3297,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0017.py",
+      "file2": "test_0022.py",
+      "similarity": 0.3297,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0017.py",
+      "file2": "test_0026.py",
+      "similarity": 0.3297,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0020.py",
+      "file2": "test_0021.py",
+      "similarity": 0.3297,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0020.py",
+      "file2": "test_0022.py",
+      "similarity": 0.3297,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0020.py",
+      "file2": "test_0026.py",
+      "similarity": 0.3297,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0001.py",
+      "file2": "test_0011.py",
+      "similarity": 0.3293,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0005.py",
+      "file2": "test_0011.py",
+      "similarity": 0.3293,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0007.py",
+      "file2": "test_0011.py",
+      "similarity": 0.3293,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0010.py",
+      "file2": "test_0011.py",
+      "similarity": 0.3293,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0001.py",
+      "file2": "test_0018.py",
+      "similarity": 0.3286,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0005.py",
+      "file2": "test_0018.py",
+      "similarity": 0.3286,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0007.py",
+      "file2": "test_0018.py",
+      "similarity": 0.3286,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0010.py",
+      "file2": "test_0018.py",
+      "similarity": 0.3286,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0009.py",
+      "file2": "test_0018.py",
+      "similarity": 0.3283,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0003.py",
+      "file2": "test_0031.py",
+      "similarity": 0.3282,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0003.py",
+      "file2": "test_0033.py",
+      "similarity": 0.3282,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0003.py",
+      "file2": "test_0036.py",
+      "similarity": 0.3282,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0003.py",
+      "file2": "test_0038.py",
+      "similarity": 0.3282,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0003.py",
+      "file2": "test_0039.py",
+      "similarity": 0.3282,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0003.py",
+      "file2": "test_0040.py",
+      "similarity": 0.3282,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0014.py",
+      "file2": "test_0021.py",
+      "similarity": 0.328,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0014.py",
+      "file2": "test_0022.py",
+      "similarity": 0.328,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0014.py",
+      "file2": "test_0026.py",
+      "similarity": 0.328,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0011.py",
+      "file2": "test_0021.py",
+      "similarity": 0.3277,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0011.py",
+      "file2": "test_0022.py",
+      "similarity": 0.3277,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0011.py",
+      "file2": "test_0026.py",
+      "similarity": 0.3277,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0018.py",
+      "file2": "test_0021.py",
+      "similarity": 0.3271,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0018.py",
+      "file2": "test_0022.py",
+      "similarity": 0.3271,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0018.py",
+      "file2": "test_0026.py",
+      "similarity": 0.3271,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0003.py",
+      "file2": "test_0035.py",
+      "similarity": 0.3245,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0008.py",
+      "file2": "test_0012.py",
+      "similarity": 0.3212,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0008.py",
+      "file2": "test_0013.py",
+      "similarity": 0.3212,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0008.py",
+      "file2": "test_0015.py",
+      "similarity": 0.3212,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0008.py",
+      "file2": "test_0017.py",
+      "similarity": 0.3212,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0008.py",
+      "file2": "test_0020.py",
+      "similarity": 0.3212,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0011.py",
+      "file2": "test_0027.py",
+      "similarity": 0.3191,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0008.py",
+      "file2": "test_0046.py",
+      "similarity": 0.316,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0008.py",
+      "file2": "test_0047.py",
+      "similarity": 0.316,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0008.py",
+      "file2": "test_0049.py",
+      "similarity": 0.316,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0008.py",
+      "file2": "test_0014.py",
+      "similarity": 0.3147,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0008.py",
+      "file2": "test_0032.py",
+      "similarity": 0.3142,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0008.py",
+      "file2": "test_0034.py",
+      "similarity": 0.3142,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0023.py",
+      "file2": "test_0031.py",
+      "similarity": 0.3142,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0023.py",
+      "file2": "test_0033.py",
+      "similarity": 0.3142,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0023.py",
+      "file2": "test_0036.py",
+      "similarity": 0.3142,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0023.py",
+      "file2": "test_0038.py",
+      "similarity": 0.3142,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0023.py",
+      "file2": "test_0039.py",
+      "similarity": 0.3142,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0023.py",
+      "file2": "test_0040.py",
+      "similarity": 0.3142,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0012.py",
+      "file2": "test_0027.py",
+      "similarity": 0.3133,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0012.py",
+      "file2": "test_0030.py",
+      "similarity": 0.3133,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0013.py",
+      "file2": "test_0027.py",
+      "similarity": 0.3133,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0013.py",
+      "file2": "test_0030.py",
+      "similarity": 0.3133,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0015.py",
+      "file2": "test_0027.py",
+      "similarity": 0.3133,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0015.py",
+      "file2": "test_0030.py",
+      "similarity": 0.3133,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0017.py",
+      "file2": "test_0027.py",
+      "similarity": 0.3133,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0017.py",
+      "file2": "test_0030.py",
+      "similarity": 0.3133,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0020.py",
+      "file2": "test_0027.py",
+      "similarity": 0.3133,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0020.py",
+      "file2": "test_0030.py",
+      "similarity": 0.3133,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0014.py",
+      "file2": "test_0027.py",
+      "similarity": 0.3118,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0014.py",
+      "file2": "test_0030.py",
+      "similarity": 0.3118,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0011.py",
+      "file2": "test_0030.py",
+      "similarity": 0.3115,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0018.py",
+      "file2": "test_0027.py",
+      "similarity": 0.3109,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0018.py",
+      "file2": "test_0030.py",
+      "similarity": 0.3109,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0023.py",
+      "file2": "test_0035.py",
+      "similarity": 0.3107,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0008.py",
+      "file2": "test_0011.py",
+      "similarity": 0.3096,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0008.py",
+      "file2": "test_0018.py",
+      "similarity": 0.3095,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0008.py",
+      "file2": "test_0050.py",
+      "similarity": 0.3094,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0008.py",
+      "file2": "test_0042.py",
+      "similarity": 0.309,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0001.py",
+      "file2": "test_0031.py",
+      "similarity": 0.3089,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0001.py",
+      "file2": "test_0033.py",
+      "similarity": 0.3089,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0001.py",
+      "file2": "test_0036.py",
+      "similarity": 0.3089,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0001.py",
+      "file2": "test_0038.py",
+      "similarity": 0.3089,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0001.py",
+      "file2": "test_0039.py",
+      "similarity": 0.3089,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0001.py",
+      "file2": "test_0040.py",
+      "similarity": 0.3089,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0005.py",
+      "file2": "test_0031.py",
+      "similarity": 0.3089,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0005.py",
+      "file2": "test_0033.py",
+      "similarity": 0.3089,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0005.py",
+      "file2": "test_0036.py",
+      "similarity": 0.3089,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0005.py",
+      "file2": "test_0038.py",
+      "similarity": 0.3089,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0005.py",
+      "file2": "test_0039.py",
+      "similarity": 0.3089,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0005.py",
+      "file2": "test_0040.py",
+      "similarity": 0.3089,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0007.py",
+      "file2": "test_0031.py",
+      "similarity": 0.3089,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0007.py",
+      "file2": "test_0033.py",
+      "similarity": 0.3089,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0007.py",
+      "file2": "test_0036.py",
+      "similarity": 0.3089,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0007.py",
+      "file2": "test_0038.py",
+      "similarity": 0.3089,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0007.py",
+      "file2": "test_0039.py",
+      "similarity": 0.3089,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0007.py",
+      "file2": "test_0040.py",
+      "similarity": 0.3089,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0010.py",
+      "file2": "test_0031.py",
+      "similarity": 0.3089,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0010.py",
+      "file2": "test_0033.py",
+      "similarity": 0.3089,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0010.py",
+      "file2": "test_0036.py",
+      "similarity": 0.3089,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0010.py",
+      "file2": "test_0038.py",
+      "similarity": 0.3089,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0010.py",
+      "file2": "test_0039.py",
+      "similarity": 0.3089,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0010.py",
+      "file2": "test_0040.py",
+      "similarity": 0.3089,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0009.py",
+      "file2": "test_0031.py",
+      "similarity": 0.3067,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0009.py",
+      "file2": "test_0033.py",
+      "similarity": 0.3067,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0009.py",
+      "file2": "test_0036.py",
+      "similarity": 0.3067,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0009.py",
+      "file2": "test_0038.py",
+      "similarity": 0.3067,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0009.py",
+      "file2": "test_0039.py",
+      "similarity": 0.3067,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0009.py",
+      "file2": "test_0040.py",
+      "similarity": 0.3067,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0001.py",
+      "file2": "test_0035.py",
+      "similarity": 0.3054,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0005.py",
+      "file2": "test_0035.py",
+      "similarity": 0.3054,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0007.py",
+      "file2": "test_0035.py",
+      "similarity": 0.3054,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0010.py",
+      "file2": "test_0035.py",
+      "similarity": 0.3054,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0001.py",
+      "file2": "test_0044.py",
+      "similarity": 0.3045,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0001.py",
+      "file2": "test_0045.py",
+      "similarity": 0.3045,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0001.py",
+      "file2": "test_0046.py",
+      "similarity": 0.3045,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0001.py",
+      "file2": "test_0047.py",
+      "similarity": 0.3045,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0001.py",
+      "file2": "test_0049.py",
+      "similarity": 0.3045,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0005.py",
+      "file2": "test_0044.py",
+      "similarity": 0.3045,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0005.py",
+      "file2": "test_0045.py",
+      "similarity": 0.3045,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0005.py",
+      "file2": "test_0046.py",
+      "similarity": 0.3045,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0005.py",
+      "file2": "test_0047.py",
+      "similarity": 0.3045,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0005.py",
+      "file2": "test_0049.py",
+      "similarity": 0.3045,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0007.py",
+      "file2": "test_0044.py",
+      "similarity": 0.3045,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0007.py",
+      "file2": "test_0045.py",
+      "similarity": 0.3045,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0007.py",
+      "file2": "test_0046.py",
+      "similarity": 0.3045,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0007.py",
+      "file2": "test_0047.py",
+      "similarity": 0.3045,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0007.py",
+      "file2": "test_0049.py",
+      "similarity": 0.3045,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0008.py",
+      "file2": "test_0044.py",
+      "similarity": 0.3045,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0008.py",
+      "file2": "test_0045.py",
+      "similarity": 0.3045,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0010.py",
+      "file2": "test_0044.py",
+      "similarity": 0.3045,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0010.py",
+      "file2": "test_0045.py",
+      "similarity": 0.3045,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0010.py",
+      "file2": "test_0046.py",
+      "similarity": 0.3045,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0010.py",
+      "file2": "test_0047.py",
+      "similarity": 0.3045,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0010.py",
+      "file2": "test_0049.py",
+      "similarity": 0.3045,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0009.py",
+      "file2": "test_0035.py",
+      "similarity": 0.3033,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0008.py",
+      "file2": "test_0023.py",
+      "similarity": 0.3031,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0023.py",
+      "file2": "test_0032.py",
+      "similarity": 0.301,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0023.py",
+      "file2": "test_0034.py",
+      "similarity": 0.301,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0021.py",
+      "file2": "test_0031.py",
+      "similarity": 0.3008,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0021.py",
+      "file2": "test_0033.py",
+      "similarity": 0.3008,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0021.py",
+      "file2": "test_0036.py",
+      "similarity": 0.3008,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0021.py",
+      "file2": "test_0038.py",
+      "similarity": 0.3008,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0021.py",
+      "file2": "test_0039.py",
+      "similarity": 0.3008,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0021.py",
+      "file2": "test_0040.py",
+      "similarity": 0.3008,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0022.py",
+      "file2": "test_0031.py",
+      "similarity": 0.3008,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0022.py",
+      "file2": "test_0033.py",
+      "similarity": 0.3008,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0022.py",
+      "file2": "test_0036.py",
+      "similarity": 0.3008,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0022.py",
+      "file2": "test_0038.py",
+      "similarity": 0.3008,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0022.py",
+      "file2": "test_0039.py",
+      "similarity": 0.3008,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0022.py",
+      "file2": "test_0040.py",
+      "similarity": 0.3008,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0026.py",
+      "file2": "test_0031.py",
+      "similarity": 0.3008,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0026.py",
+      "file2": "test_0033.py",
+      "similarity": 0.3008,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0026.py",
+      "file2": "test_0036.py",
+      "similarity": 0.3008,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0026.py",
+      "file2": "test_0038.py",
+      "similarity": 0.3008,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0026.py",
+      "file2": "test_0039.py",
+      "similarity": 0.3008,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0026.py",
+      "file2": "test_0040.py",
+      "similarity": 0.3008,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0029.py",
+      "file2": "test_0031.py",
+      "similarity": 0.3004,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0029.py",
+      "file2": "test_0033.py",
+      "similarity": 0.3004,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0029.py",
+      "file2": "test_0036.py",
+      "similarity": 0.3004,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0029.py",
+      "file2": "test_0038.py",
+      "similarity": 0.3004,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0029.py",
+      "file2": "test_0039.py",
+      "similarity": 0.3004,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0029.py",
+      "file2": "test_0040.py",
+      "similarity": 0.3004,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0027.py",
+      "file2": "test_0031.py",
+      "similarity": 0.3003,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0027.py",
+      "file2": "test_0033.py",
+      "similarity": 0.3003,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0027.py",
+      "file2": "test_0036.py",
+      "similarity": 0.3003,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0027.py",
+      "file2": "test_0038.py",
+      "similarity": 0.3003,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0027.py",
+      "file2": "test_0039.py",
+      "similarity": 0.3003,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0027.py",
+      "file2": "test_0040.py",
+      "similarity": 0.3003,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0030.py",
+      "file2": "test_0031.py",
+      "similarity": 0.3003,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0030.py",
+      "file2": "test_0033.py",
+      "similarity": 0.3003,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0030.py",
+      "file2": "test_0036.py",
+      "similarity": 0.3003,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0030.py",
+      "file2": "test_0038.py",
+      "similarity": 0.3003,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0030.py",
+      "file2": "test_0039.py",
+      "similarity": 0.3003,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0030.py",
+      "file2": "test_0040.py",
+      "similarity": 0.3003,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0003.py",
+      "file2": "test_0032.py",
+      "similarity": 0.2989,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0003.py",
+      "file2": "test_0034.py",
+      "similarity": 0.2989,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0001.py",
+      "file2": "test_0042.py",
+      "similarity": 0.2977,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0005.py",
+      "file2": "test_0042.py",
+      "similarity": 0.2977,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0007.py",
+      "file2": "test_0042.py",
+      "similarity": 0.2977,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0010.py",
+      "file2": "test_0042.py",
+      "similarity": 0.2977,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0021.py",
+      "file2": "test_0035.py",
+      "similarity": 0.2974,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0022.py",
+      "file2": "test_0035.py",
+      "similarity": 0.2974,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0026.py",
+      "file2": "test_0035.py",
+      "similarity": 0.2974,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0029.py",
+      "file2": "test_0035.py",
+      "similarity": 0.297,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0027.py",
+      "file2": "test_0035.py",
+      "similarity": 0.2969,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0030.py",
+      "file2": "test_0035.py",
+      "similarity": 0.2969,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0009.py",
+      "file2": "test_0046.py",
+      "similarity": 0.2944,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0009.py",
+      "file2": "test_0047.py",
+      "similarity": 0.2944,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0009.py",
+      "file2": "test_0049.py",
+      "similarity": 0.2944,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0003.py",
+      "file2": "test_0050.py",
+      "similarity": 0.2936,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0009.py",
+      "file2": "test_0050.py",
+      "similarity": 0.2932,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0009.py",
+      "file2": "test_0042.py",
+      "similarity": 0.293,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0008.py",
+      "file2": "test_0031.py",
+      "similarity": 0.2879,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0008.py",
+      "file2": "test_0033.py",
+      "similarity": 0.2879,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0008.py",
+      "file2": "test_0036.py",
+      "similarity": 0.2879,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0008.py",
+      "file2": "test_0038.py",
+      "similarity": 0.2879,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0008.py",
+      "file2": "test_0039.py",
+      "similarity": 0.2879,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0008.py",
+      "file2": "test_0040.py",
+      "similarity": 0.2879,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0021.py",
+      "file2": "test_0032.py",
+      "similarity": 0.2878,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0021.py",
+      "file2": "test_0034.py",
+      "similarity": 0.2878,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0022.py",
+      "file2": "test_0032.py",
+      "similarity": 0.2878,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0022.py",
+      "file2": "test_0034.py",
+      "similarity": 0.2878,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0026.py",
+      "file2": "test_0032.py",
+      "similarity": 0.2878,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0026.py",
+      "file2": "test_0034.py",
+      "similarity": 0.2878,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0029.py",
+      "file2": "test_0032.py",
+      "similarity": 0.2876,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0029.py",
+      "file2": "test_0034.py",
+      "similarity": 0.2876,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0001.py",
+      "file2": "test_0050.py",
+      "similarity": 0.2875,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0005.py",
+      "file2": "test_0050.py",
+      "similarity": 0.2875,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0007.py",
+      "file2": "test_0050.py",
+      "similarity": 0.2875,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0010.py",
+      "file2": "test_0050.py",
+      "similarity": 0.2875,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0027.py",
+      "file2": "test_0032.py",
+      "similarity": 0.2875,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0027.py",
+      "file2": "test_0034.py",
+      "similarity": 0.2875,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0030.py",
+      "file2": "test_0032.py",
+      "similarity": 0.2875,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0030.py",
+      "file2": "test_0034.py",
+      "similarity": 0.2875,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0008.py",
+      "file2": "test_0021.py",
+      "similarity": 0.2868,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0008.py",
+      "file2": "test_0022.py",
+      "similarity": 0.2868,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0008.py",
+      "file2": "test_0026.py",
+      "similarity": 0.2868,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0003.py",
+      "file2": "test_0023.py",
+      "similarity": 0.2864,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0008.py",
+      "file2": "test_0035.py",
+      "similarity": 0.2847,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0009.py",
+      "file2": "test_0032.py",
+      "similarity": 0.2846,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0009.py",
+      "file2": "test_0034.py",
+      "similarity": 0.2846,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0003.py",
+      "file2": "test_0046.py",
+      "similarity": 0.2844,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0003.py",
+      "file2": "test_0047.py",
+      "similarity": 0.2844,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0003.py",
+      "file2": "test_0049.py",
+      "similarity": 0.2844,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0009.py",
+      "file2": "test_0044.py",
+      "similarity": 0.2836,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0009.py",
+      "file2": "test_0045.py",
+      "similarity": 0.2836,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0003.py",
+      "file2": "test_0042.py",
+      "similarity": 0.2831,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0001.py",
+      "file2": "test_0032.py",
+      "similarity": 0.2793,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0001.py",
+      "file2": "test_0034.py",
+      "similarity": 0.2793,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0005.py",
+      "file2": "test_0032.py",
+      "similarity": 0.2793,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0005.py",
+      "file2": "test_0034.py",
+      "similarity": 0.2793,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0007.py",
+      "file2": "test_0032.py",
+      "similarity": 0.2793,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0007.py",
+      "file2": "test_0034.py",
+      "similarity": 0.2793,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0010.py",
+      "file2": "test_0032.py",
+      "similarity": 0.2793,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0010.py",
+      "file2": "test_0034.py",
+      "similarity": 0.2793,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0009.py",
+      "file2": "test_0023.py",
+      "similarity": 0.2789,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0012.py",
+      "file2": "test_0046.py",
+      "similarity": 0.2763,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0012.py",
+      "file2": "test_0047.py",
+      "similarity": 0.2763,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0012.py",
+      "file2": "test_0049.py",
+      "similarity": 0.2763,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0013.py",
+      "file2": "test_0046.py",
+      "similarity": 0.2763,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0013.py",
+      "file2": "test_0047.py",
+      "similarity": 0.2763,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0013.py",
+      "file2": "test_0049.py",
+      "similarity": 0.2763,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0015.py",
+      "file2": "test_0046.py",
+      "similarity": 0.2763,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0015.py",
+      "file2": "test_0047.py",
+      "similarity": 0.2763,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0015.py",
+      "file2": "test_0049.py",
+      "similarity": 0.2763,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0017.py",
+      "file2": "test_0046.py",
+      "similarity": 0.2763,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0017.py",
+      "file2": "test_0047.py",
+      "similarity": 0.2763,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0017.py",
+      "file2": "test_0049.py",
+      "similarity": 0.2763,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0020.py",
+      "file2": "test_0046.py",
+      "similarity": 0.2763,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0020.py",
+      "file2": "test_0047.py",
+      "similarity": 0.2763,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0020.py",
+      "file2": "test_0049.py",
+      "similarity": 0.2763,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0008.py",
+      "file2": "test_0029.py",
+      "similarity": 0.276,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0011.py",
+      "file2": "test_0042.py",
+      "similarity": 0.2756,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0012.py",
+      "file2": "test_0050.py",
+      "similarity": 0.2754,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0013.py",
+      "file2": "test_0050.py",
+      "similarity": 0.2754,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0015.py",
+      "file2": "test_0050.py",
+      "similarity": 0.2754,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0017.py",
+      "file2": "test_0050.py",
+      "similarity": 0.2754,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0020.py",
+      "file2": "test_0050.py",
+      "similarity": 0.2754,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0012.py",
+      "file2": "test_0042.py",
+      "similarity": 0.2752,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0013.py",
+      "file2": "test_0042.py",
+      "similarity": 0.2752,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0015.py",
+      "file2": "test_0042.py",
+      "similarity": 0.2752,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0017.py",
+      "file2": "test_0042.py",
+      "similarity": 0.2752,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0020.py",
+      "file2": "test_0042.py",
+      "similarity": 0.2752,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0003.py",
+      "file2": "test_0044.py",
+      "similarity": 0.274,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0003.py",
+      "file2": "test_0045.py",
+      "similarity": 0.274,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0008.py",
+      "file2": "test_0027.py",
+      "similarity": 0.2725,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0008.py",
+      "file2": "test_0030.py",
+      "similarity": 0.2725,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0001.py",
+      "file2": "test_0023.py",
+      "similarity": 0.2711,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0005.py",
+      "file2": "test_0023.py",
+      "similarity": 0.2711,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0007.py",
+      "file2": "test_0023.py",
+      "similarity": 0.2711,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0010.py",
+      "file2": "test_0023.py",
+      "similarity": 0.2711,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0014.py",
+      "file2": "test_0046.py",
+      "similarity": 0.2711,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0014.py",
+      "file2": "test_0047.py",
+      "similarity": 0.2711,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0014.py",
+      "file2": "test_0049.py",
+      "similarity": 0.2711,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0003.py",
+      "file2": "test_0021.py",
+      "similarity": 0.2704,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0003.py",
+      "file2": "test_0022.py",
+      "similarity": 0.2704,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0003.py",
+      "file2": "test_0026.py",
+      "similarity": 0.2704,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0014.py",
+      "file2": "test_0050.py",
+      "similarity": 0.2703,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0014.py",
+      "file2": "test_0042.py",
+      "similarity": 0.2701,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0011.py",
+      "file2": "test_0046.py",
+      "similarity": 0.2667,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0011.py",
+      "file2": "test_0047.py",
+      "similarity": 0.2667,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0011.py",
+      "file2": "test_0049.py",
+      "similarity": 0.2667,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0012.py",
+      "file2": "test_0031.py",
+      "similarity": 0.2663,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0012.py",
+      "file2": "test_0033.py",
+      "similarity": 0.2663,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0012.py",
+      "file2": "test_0036.py",
+      "similarity": 0.2663,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0012.py",
+      "file2": "test_0038.py",
+      "similarity": 0.2663,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0012.py",
+      "file2": "test_0039.py",
+      "similarity": 0.2663,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0012.py",
+      "file2": "test_0040.py",
+      "similarity": 0.2663,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0013.py",
+      "file2": "test_0031.py",
+      "similarity": 0.2663,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0013.py",
+      "file2": "test_0033.py",
+      "similarity": 0.2663,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0013.py",
+      "file2": "test_0036.py",
+      "similarity": 0.2663,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0013.py",
+      "file2": "test_0038.py",
+      "similarity": 0.2663,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0013.py",
+      "file2": "test_0039.py",
+      "similarity": 0.2663,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0013.py",
+      "file2": "test_0040.py",
+      "similarity": 0.2663,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0015.py",
+      "file2": "test_0031.py",
+      "similarity": 0.2663,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0015.py",
+      "file2": "test_0033.py",
+      "similarity": 0.2663,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0015.py",
+      "file2": "test_0036.py",
+      "similarity": 0.2663,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0015.py",
+      "file2": "test_0038.py",
+      "similarity": 0.2663,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0015.py",
+      "file2": "test_0039.py",
+      "similarity": 0.2663,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0015.py",
+      "file2": "test_0040.py",
+      "similarity": 0.2663,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0017.py",
+      "file2": "test_0031.py",
+      "similarity": 0.2663,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0017.py",
+      "file2": "test_0033.py",
+      "similarity": 0.2663,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0017.py",
+      "file2": "test_0036.py",
+      "similarity": 0.2663,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0017.py",
+      "file2": "test_0038.py",
+      "similarity": 0.2663,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0017.py",
+      "file2": "test_0039.py",
+      "similarity": 0.2663,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0017.py",
+      "file2": "test_0040.py",
+      "similarity": 0.2663,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0020.py",
+      "file2": "test_0031.py",
+      "similarity": 0.2663,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0020.py",
+      "file2": "test_0033.py",
+      "similarity": 0.2663,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0020.py",
+      "file2": "test_0036.py",
+      "similarity": 0.2663,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0020.py",
+      "file2": "test_0038.py",
+      "similarity": 0.2663,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0020.py",
+      "file2": "test_0039.py",
+      "similarity": 0.2663,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0020.py",
+      "file2": "test_0040.py",
+      "similarity": 0.2663,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0012.py",
+      "file2": "test_0044.py",
+      "similarity": 0.2662,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0012.py",
+      "file2": "test_0045.py",
+      "similarity": 0.2662,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0013.py",
+      "file2": "test_0044.py",
+      "similarity": 0.2662,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0013.py",
+      "file2": "test_0045.py",
+      "similarity": 0.2662,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0015.py",
+      "file2": "test_0044.py",
+      "similarity": 0.2662,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0015.py",
+      "file2": "test_0045.py",
+      "similarity": 0.2662,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0017.py",
+      "file2": "test_0044.py",
+      "similarity": 0.2662,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0017.py",
+      "file2": "test_0045.py",
+      "similarity": 0.2662,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0020.py",
+      "file2": "test_0044.py",
+      "similarity": 0.2662,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0020.py",
+      "file2": "test_0045.py",
+      "similarity": 0.2662,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0011.py",
+      "file2": "test_0050.py",
+      "similarity": 0.2659,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0014.py",
+      "file2": "test_0031.py",
+      "similarity": 0.2656,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0014.py",
+      "file2": "test_0033.py",
+      "similarity": 0.2656,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0014.py",
+      "file2": "test_0036.py",
+      "similarity": 0.2656,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0014.py",
+      "file2": "test_0038.py",
+      "similarity": 0.2656,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0014.py",
+      "file2": "test_0039.py",
+      "similarity": 0.2656,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0014.py",
+      "file2": "test_0040.py",
+      "similarity": 0.2656,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0030.py",
+      "file2": "test_0042.py",
+      "similarity": 0.2656,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0011.py",
+      "file2": "test_0031.py",
+      "similarity": 0.2654,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0011.py",
+      "file2": "test_0033.py",
+      "similarity": 0.2654,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0011.py",
+      "file2": "test_0036.py",
+      "similarity": 0.2654,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0011.py",
+      "file2": "test_0038.py",
+      "similarity": 0.2654,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0011.py",
+      "file2": "test_0039.py",
+      "similarity": 0.2654,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0011.py",
+      "file2": "test_0040.py",
+      "similarity": 0.2654,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0018.py",
+      "file2": "test_0031.py",
+      "similarity": 0.2652,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0018.py",
+      "file2": "test_0033.py",
+      "similarity": 0.2652,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0018.py",
+      "file2": "test_0036.py",
+      "similarity": 0.2652,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0018.py",
+      "file2": "test_0038.py",
+      "similarity": 0.2652,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0018.py",
+      "file2": "test_0039.py",
+      "similarity": 0.2652,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0018.py",
+      "file2": "test_0040.py",
+      "similarity": 0.2652,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0003.py",
+      "file2": "test_0027.py",
+      "similarity": 0.2645,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0012.py",
+      "file2": "test_0035.py",
+      "similarity": 0.2632,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0013.py",
+      "file2": "test_0035.py",
+      "similarity": 0.2632,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0015.py",
+      "file2": "test_0035.py",
+      "similarity": 0.2632,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0017.py",
+      "file2": "test_0035.py",
+      "similarity": 0.2632,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0020.py",
+      "file2": "test_0035.py",
+      "similarity": 0.2632,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0009.py",
+      "file2": "test_0021.py",
+      "similarity": 0.2627,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0009.py",
+      "file2": "test_0022.py",
+      "similarity": 0.2627,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0009.py",
+      "file2": "test_0026.py",
+      "similarity": 0.2627,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0014.py",
+      "file2": "test_0035.py",
+      "similarity": 0.2626,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0011.py",
+      "file2": "test_0035.py",
+      "similarity": 0.2624,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0018.py",
+      "file2": "test_0035.py",
+      "similarity": 0.2622,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0014.py",
+      "file2": "test_0044.py",
+      "similarity": 0.2611,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0014.py",
+      "file2": "test_0045.py",
+      "similarity": 0.2611,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0003.py",
+      "file2": "test_0029.py",
+      "similarity": 0.2602,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0018.py",
+      "file2": "test_0046.py",
+      "similarity": 0.2583,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0018.py",
+      "file2": "test_0047.py",
+      "similarity": 0.2583,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0018.py",
+      "file2": "test_0049.py",
+      "similarity": 0.2583,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0018.py",
+      "file2": "test_0050.py",
+      "similarity": 0.2575,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0018.py",
+      "file2": "test_0042.py",
+      "similarity": 0.2574,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0009.py",
+      "file2": "test_0027.py",
+      "similarity": 0.2572,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0003.py",
+      "file2": "test_0030.py",
+      "similarity": 0.257,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0011.py",
+      "file2": "test_0044.py",
+      "similarity": 0.2569,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0011.py",
+      "file2": "test_0045.py",
+      "similarity": 0.2569,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0023.py",
+      "file2": "test_0042.py",
+      "similarity": 0.2558,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0012.py",
+      "file2": "test_0032.py",
+      "similarity": 0.2554,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0012.py",
+      "file2": "test_0034.py",
+      "similarity": 0.2554,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0013.py",
+      "file2": "test_0032.py",
+      "similarity": 0.2554,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0013.py",
+      "file2": "test_0034.py",
+      "similarity": 0.2554,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0015.py",
+      "file2": "test_0032.py",
+      "similarity": 0.2554,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0015.py",
+      "file2": "test_0034.py",
+      "similarity": 0.2554,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0017.py",
+      "file2": "test_0032.py",
+      "similarity": 0.2554,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0017.py",
+      "file2": "test_0034.py",
+      "similarity": 0.2554,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0020.py",
+      "file2": "test_0032.py",
+      "similarity": 0.2554,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0020.py",
+      "file2": "test_0034.py",
+      "similarity": 0.2554,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0014.py",
+      "file2": "test_0032.py",
+      "similarity": 0.2549,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0014.py",
+      "file2": "test_0034.py",
+      "similarity": 0.2549,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0001.py",
+      "file2": "test_0021.py",
+      "similarity": 0.2548,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0001.py",
+      "file2": "test_0022.py",
+      "similarity": 0.2548,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0001.py",
+      "file2": "test_0026.py",
+      "similarity": 0.2548,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0005.py",
+      "file2": "test_0021.py",
+      "similarity": 0.2548,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0005.py",
+      "file2": "test_0022.py",
+      "similarity": 0.2548,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0005.py",
+      "file2": "test_0026.py",
+      "similarity": 0.2548,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0007.py",
+      "file2": "test_0021.py",
+      "similarity": 0.2548,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0007.py",
+      "file2": "test_0022.py",
+      "similarity": 0.2548,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0007.py",
+      "file2": "test_0026.py",
+      "similarity": 0.2548,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0010.py",
+      "file2": "test_0021.py",
+      "similarity": 0.2548,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0010.py",
+      "file2": "test_0022.py",
+      "similarity": 0.2548,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0010.py",
+      "file2": "test_0026.py",
+      "similarity": 0.2548,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0011.py",
+      "file2": "test_0032.py",
+      "similarity": 0.2548,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0011.py",
+      "file2": "test_0034.py",
+      "similarity": 0.2548,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0018.py",
+      "file2": "test_0032.py",
+      "similarity": 0.2546,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0018.py",
+      "file2": "test_0034.py",
+      "similarity": 0.2546,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0009.py",
+      "file2": "test_0029.py",
+      "similarity": 0.2527,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0001.py",
+      "file2": "test_0027.py",
+      "similarity": 0.2497,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0005.py",
+      "file2": "test_0027.py",
+      "similarity": 0.2497,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0007.py",
+      "file2": "test_0027.py",
+      "similarity": 0.2497,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0010.py",
+      "file2": "test_0027.py",
+      "similarity": 0.2497,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0009.py",
+      "file2": "test_0030.py",
+      "similarity": 0.2496,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0018.py",
+      "file2": "test_0044.py",
+      "similarity": 0.2488,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0018.py",
+      "file2": "test_0045.py",
+      "similarity": 0.2488,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0023.py",
+      "file2": "test_0044.py",
+      "similarity": 0.2483,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0023.py",
+      "file2": "test_0045.py",
+      "similarity": 0.2483,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0023.py",
+      "file2": "test_0046.py",
+      "similarity": 0.2483,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0023.py",
+      "file2": "test_0047.py",
+      "similarity": 0.2483,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0023.py",
+      "file2": "test_0049.py",
+      "similarity": 0.2483,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0023.py",
+      "file2": "test_0050.py",
+      "similarity": 0.2478,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0021.py",
+      "file2": "test_0042.py",
+      "similarity": 0.2476,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0022.py",
+      "file2": "test_0042.py",
+      "similarity": 0.2476,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0026.py",
+      "file2": "test_0042.py",
+      "similarity": 0.2476,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0001.py",
+      "file2": "test_0029.py",
+      "similarity": 0.2452,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0005.py",
+      "file2": "test_0029.py",
+      "similarity": 0.2452,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0007.py",
+      "file2": "test_0029.py",
+      "similarity": 0.2452,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0010.py",
+      "file2": "test_0029.py",
+      "similarity": 0.2452,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0001.py",
+      "file2": "test_0030.py",
+      "similarity": 0.2421,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0005.py",
+      "file2": "test_0030.py",
+      "similarity": 0.2421,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0007.py",
+      "file2": "test_0030.py",
+      "similarity": 0.2421,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0010.py",
+      "file2": "test_0030.py",
+      "similarity": 0.2421,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0021.py",
+      "file2": "test_0044.py",
+      "similarity": 0.2402,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0021.py",
+      "file2": "test_0045.py",
+      "similarity": 0.2402,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0021.py",
+      "file2": "test_0046.py",
+      "similarity": 0.2402,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0021.py",
+      "file2": "test_0047.py",
+      "similarity": 0.2402,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0021.py",
+      "file2": "test_0049.py",
+      "similarity": 0.2402,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0022.py",
+      "file2": "test_0044.py",
+      "similarity": 0.2402,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0022.py",
+      "file2": "test_0045.py",
+      "similarity": 0.2402,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0022.py",
+      "file2": "test_0046.py",
+      "similarity": 0.2402,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0022.py",
+      "file2": "test_0047.py",
+      "similarity": 0.2402,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0022.py",
+      "file2": "test_0049.py",
+      "similarity": 0.2402,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0026.py",
+      "file2": "test_0044.py",
+      "similarity": 0.2402,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0026.py",
+      "file2": "test_0045.py",
+      "similarity": 0.2402,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0026.py",
+      "file2": "test_0046.py",
+      "similarity": 0.2402,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0026.py",
+      "file2": "test_0047.py",
+      "similarity": 0.2402,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0026.py",
+      "file2": "test_0049.py",
+      "similarity": 0.2402,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0021.py",
+      "file2": "test_0050.py",
+      "similarity": 0.2397,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0022.py",
+      "file2": "test_0050.py",
+      "similarity": 0.2397,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0026.py",
+      "file2": "test_0050.py",
+      "similarity": 0.2397,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0032.py",
+      "file2": "test_0046.py",
+      "similarity": 0.2388,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0032.py",
+      "file2": "test_0047.py",
+      "similarity": 0.2388,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0032.py",
+      "file2": "test_0049.py",
+      "similarity": 0.2388,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0034.py",
+      "file2": "test_0046.py",
+      "similarity": 0.2388,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0034.py",
+      "file2": "test_0047.py",
+      "similarity": 0.2388,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0034.py",
+      "file2": "test_0049.py",
+      "similarity": 0.2388,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0029.py",
+      "file2": "test_0042.py",
+      "similarity": 0.2382,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0032.py",
+      "file2": "test_0050.py",
+      "similarity": 0.2379,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0034.py",
+      "file2": "test_0050.py",
+      "similarity": 0.2379,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0032.py",
+      "file2": "test_0042.py",
+      "similarity": 0.2378,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0034.py",
+      "file2": "test_0042.py",
+      "similarity": 0.2378,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0030.py",
+      "file2": "test_0050.py",
+      "similarity": 0.2353,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0027.py",
+      "file2": "test_0042.py",
+      "similarity": 0.2352,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0031.py",
+      "file2": "test_0044.py",
+      "similarity": 0.2348,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0031.py",
+      "file2": "test_0045.py",
+      "similarity": 0.2348,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0033.py",
+      "file2": "test_0044.py",
+      "similarity": 0.2348,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0033.py",
+      "file2": "test_0045.py",
+      "similarity": 0.2348,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0036.py",
+      "file2": "test_0044.py",
+      "similarity": 0.2348,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0036.py",
+      "file2": "test_0045.py",
+      "similarity": 0.2348,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0038.py",
+      "file2": "test_0044.py",
+      "similarity": 0.2348,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0038.py",
+      "file2": "test_0045.py",
+      "similarity": 0.2348,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0039.py",
+      "file2": "test_0044.py",
+      "similarity": 0.2348,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0039.py",
+      "file2": "test_0045.py",
+      "similarity": 0.2348,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0040.py",
+      "file2": "test_0044.py",
+      "similarity": 0.2348,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0040.py",
+      "file2": "test_0045.py",
+      "similarity": 0.2348,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0031.py",
+      "file2": "test_0050.py",
+      "similarity": 0.2342,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0033.py",
+      "file2": "test_0050.py",
+      "similarity": 0.2342,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0036.py",
+      "file2": "test_0050.py",
+      "similarity": 0.2342,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0038.py",
+      "file2": "test_0050.py",
+      "similarity": 0.2342,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0039.py",
+      "file2": "test_0050.py",
+      "similarity": 0.2342,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0040.py",
+      "file2": "test_0050.py",
+      "similarity": 0.2342,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0031.py",
+      "file2": "test_0042.py",
+      "similarity": 0.2341,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0033.py",
+      "file2": "test_0042.py",
+      "similarity": 0.2341,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0036.py",
+      "file2": "test_0042.py",
+      "similarity": 0.2341,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0038.py",
+      "file2": "test_0042.py",
+      "similarity": 0.2341,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0039.py",
+      "file2": "test_0042.py",
+      "similarity": 0.2341,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0040.py",
+      "file2": "test_0042.py",
+      "similarity": 0.2341,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0035.py",
+      "file2": "test_0044.py",
+      "similarity": 0.2321,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0035.py",
+      "file2": "test_0045.py",
+      "similarity": 0.2321,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0032.py",
+      "file2": "test_0044.py",
+      "similarity": 0.2318,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0032.py",
+      "file2": "test_0045.py",
+      "similarity": 0.2318,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0034.py",
+      "file2": "test_0044.py",
+      "similarity": 0.2318,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0034.py",
+      "file2": "test_0045.py",
+      "similarity": 0.2318,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0035.py",
+      "file2": "test_0050.py",
+      "similarity": 0.2315,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0035.py",
+      "file2": "test_0042.py",
+      "similarity": 0.2314,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0029.py",
+      "file2": "test_0044.py",
+      "similarity": 0.231,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0029.py",
+      "file2": "test_0045.py",
+      "similarity": 0.231,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0029.py",
+      "file2": "test_0046.py",
+      "similarity": 0.231,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0029.py",
+      "file2": "test_0047.py",
+      "similarity": 0.231,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0029.py",
+      "file2": "test_0049.py",
+      "similarity": 0.231,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0029.py",
+      "file2": "test_0050.py",
+      "similarity": 0.2306,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0027.py",
+      "file2": "test_0044.py",
+      "similarity": 0.2281,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0027.py",
+      "file2": "test_0045.py",
+      "similarity": 0.2281,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0027.py",
+      "file2": "test_0046.py",
+      "similarity": 0.2281,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0027.py",
+      "file2": "test_0047.py",
+      "similarity": 0.2281,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0027.py",
+      "file2": "test_0049.py",
+      "similarity": 0.2281,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0030.py",
+      "file2": "test_0044.py",
+      "similarity": 0.2281,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0030.py",
+      "file2": "test_0045.py",
+      "similarity": 0.2281,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0030.py",
+      "file2": "test_0046.py",
+      "similarity": 0.2281,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0030.py",
+      "file2": "test_0047.py",
+      "similarity": 0.2281,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0030.py",
+      "file2": "test_0049.py",
+      "similarity": 0.2281,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0031.py",
+      "file2": "test_0046.py",
+      "similarity": 0.2278,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0031.py",
+      "file2": "test_0047.py",
+      "similarity": 0.2278,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0031.py",
+      "file2": "test_0049.py",
+      "similarity": 0.2278,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0033.py",
+      "file2": "test_0046.py",
+      "similarity": 0.2278,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0033.py",
+      "file2": "test_0047.py",
+      "similarity": 0.2278,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0033.py",
+      "file2": "test_0049.py",
+      "similarity": 0.2278,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0036.py",
+      "file2": "test_0046.py",
+      "similarity": 0.2278,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0036.py",
+      "file2": "test_0047.py",
+      "similarity": 0.2278,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0036.py",
+      "file2": "test_0049.py",
+      "similarity": 0.2278,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0038.py",
+      "file2": "test_0046.py",
+      "similarity": 0.2278,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0038.py",
+      "file2": "test_0047.py",
+      "similarity": 0.2278,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0038.py",
+      "file2": "test_0049.py",
+      "similarity": 0.2278,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0039.py",
+      "file2": "test_0046.py",
+      "similarity": 0.2278,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0039.py",
+      "file2": "test_0047.py",
+      "similarity": 0.2278,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0039.py",
+      "file2": "test_0049.py",
+      "similarity": 0.2278,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0040.py",
+      "file2": "test_0046.py",
+      "similarity": 0.2278,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0040.py",
+      "file2": "test_0047.py",
+      "similarity": 0.2278,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0040.py",
+      "file2": "test_0049.py",
+      "similarity": 0.2278,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0027.py",
+      "file2": "test_0050.py",
+      "similarity": 0.2277,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0035.py",
+      "file2": "test_0046.py",
+      "similarity": 0.2252,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0035.py",
+      "file2": "test_0047.py",
+      "similarity": 0.2252,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0035.py",
+      "file2": "test_0049.py",
+      "similarity": 0.2252,
+      "is_true_positive": false
+    }
+  ],
+  "top_20_suspicious": [
+    {
+      "file1": "test_0001.py",
+      "file2": "test_0005.py",
+      "similarity": 1.0,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0001.py",
+      "file2": "test_0007.py",
+      "similarity": 1.0,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0001.py",
+      "file2": "test_0010.py",
+      "similarity": 1.0,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0005.py",
+      "file2": "test_0007.py",
+      "similarity": 1.0,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0005.py",
+      "file2": "test_0010.py",
+      "similarity": 1.0,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0007.py",
+      "file2": "test_0010.py",
+      "similarity": 1.0,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0012.py",
+      "file2": "test_0013.py",
+      "similarity": 1.0,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0012.py",
+      "file2": "test_0015.py",
+      "similarity": 1.0,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0012.py",
+      "file2": "test_0017.py",
+      "similarity": 1.0,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0012.py",
+      "file2": "test_0020.py",
+      "similarity": 1.0,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0013.py",
+      "file2": "test_0015.py",
+      "similarity": 1.0,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0013.py",
+      "file2": "test_0017.py",
+      "similarity": 1.0,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0013.py",
+      "file2": "test_0020.py",
+      "similarity": 1.0,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0015.py",
+      "file2": "test_0017.py",
+      "similarity": 1.0,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0015.py",
+      "file2": "test_0020.py",
+      "similarity": 1.0,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0017.py",
+      "file2": "test_0020.py",
+      "similarity": 1.0,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0021.py",
+      "file2": "test_0022.py",
+      "similarity": 1.0,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0021.py",
+      "file2": "test_0026.py",
+      "similarity": 1.0,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0022.py",
+      "file2": "test_0026.py",
+      "similarity": 1.0,
+      "is_true_positive": true
+    },
+    {
+      "file1": "test_0031.py",
+      "file2": "test_0033.py",
+      "similarity": 1.0,
+      "is_true_positive": true
+    }
+  ],
+  "top_20_false_positives": [
+    {
+      "file1": "test_0003.py",
+      "file2": "test_0012.py",
+      "similarity": 0.3609,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0003.py",
+      "file2": "test_0013.py",
+      "similarity": 0.3609,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0003.py",
+      "file2": "test_0015.py",
+      "similarity": 0.3609,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0003.py",
+      "file2": "test_0017.py",
+      "similarity": 0.3609,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0003.py",
+      "file2": "test_0020.py",
+      "similarity": 0.3609,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0003.py",
+      "file2": "test_0014.py",
+      "similarity": 0.3538,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0009.py",
+      "file2": "test_0012.py",
+      "similarity": 0.3514,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0009.py",
+      "file2": "test_0013.py",
+      "similarity": 0.3514,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0009.py",
+      "file2": "test_0015.py",
+      "similarity": 0.3514,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0009.py",
+      "file2": "test_0017.py",
+      "similarity": 0.3514,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0009.py",
+      "file2": "test_0020.py",
+      "similarity": 0.3514,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0003.py",
+      "file2": "test_0011.py",
+      "similarity": 0.3481,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0009.py",
+      "file2": "test_0014.py",
+      "similarity": 0.3444,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0012.py",
+      "file2": "test_0023.py",
+      "similarity": 0.3431,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0013.py",
+      "file2": "test_0023.py",
+      "similarity": 0.3431,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0015.py",
+      "file2": "test_0023.py",
+      "similarity": 0.3431,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0017.py",
+      "file2": "test_0023.py",
+      "similarity": 0.3431,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0020.py",
+      "file2": "test_0023.py",
+      "similarity": 0.3431,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0001.py",
+      "file2": "test_0012.py",
+      "similarity": 0.3416,
+      "is_true_positive": false
+    },
+    {
+      "file1": "test_0001.py",
+      "file2": "test_0013.py",
+      "similarity": 0.3416,
+      "is_true_positive": false
+    }
+  ],
+  "statistics": {
+    "total_comparisons": 703,
+    "true_positives_total": 127,
+    "false_positives_total": 576,
+    "total_true_pairs": 225,
+    "precision_top_suspicious": 1.0,
+    "recall_top_suspicious": 0.0889,
+    "true_positives_in_top_suspicious": 20,
+    "false_positives_in_top_false_pos": 20
+  },
+  "generated_at": "2026-04-16 02:45:28"
+}
